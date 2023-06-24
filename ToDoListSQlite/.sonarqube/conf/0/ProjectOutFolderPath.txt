@@ -1,0 +1,1 @@
+C:\Users\Leandro\ToDoList\ToDoListSQlite\.sonarqube\out\0

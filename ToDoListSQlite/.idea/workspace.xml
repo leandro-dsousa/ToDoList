@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2b1ddeb-5135-4799-a7a0-d867b7f2b5e5" name="Changes" comment="" />
+    <list default="true" id="d2b1ddeb-5135-4799-a7a0-d867b7f2b5e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/TestStore/0/000.testlog" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/TestStore/0/000.testlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/TestStore/0/testlog.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/TestStore/0/testlog.manifest" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Leandro/ToDoList/ToDoListSQlite"
