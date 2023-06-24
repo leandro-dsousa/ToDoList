@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ToDoList.Data;
+using ToDoListSQlite.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ToDoListContext>(options => options.UseSqlite("Name=ToDoListDB"));
+builder.Services.AddTransient<IToDoListService, ToDoListService>();
 
 var app = builder.Build();
 
