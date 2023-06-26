@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b1ddeb-5135-4799-a7a0-d867b7f2b5e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/TestStore/0/000.testlog" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/TestStore/0/000.testlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/TestStore/0/testlog.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/TestStore/0/testlog.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/todolistsqlite.metadata.v5.2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/todolistsqlite.metadata.v5.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/todolistsqlite.projects.v5.2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/todolistsqlite.projects.v5.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ToDoListSQlite/v17/.suo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,14 +23,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Leandro/ToDoList/ToDoListSQlite"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Leandro/ToDoList/ToDoListSQlite&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -8,7 +8,6 @@ namespace ToDoListSQlite.Services.Interfaces
 
         Task<ActionResult<IEnumerable<ToDoListModel>>> GetToDoLists();
 
-
         Task<ActionResult<ToDoListModel>> GetToDoListModel(long id);
 
         Task<ActionResult<ToDoListModel>> PutToDoListModel(long id, ToDoListModel toDoListModel);
